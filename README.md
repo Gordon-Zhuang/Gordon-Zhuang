@@ -10,9 +10,9 @@ To be algorithm developer, find more efficient to solve problem
 I'm search somebody for Language exchange. We can just chatting or play online game together, talk in English and Chinese.
 
 # Contact me
-Telephone: +886-909695882
-Email: z22521816@gmail.com
-LinkedIn:www.linkedin.com/in/gordon-zhuang-aa4b88219/
+>Telephone: +886-909695882
+>Email: z22521816@gmail.com
+>LinkedIn:www.linkedin.com/in/gordon-zhuang-aa4b88219/
 
 Leetcode: https://leetcode.com/a22521816/
 Wedsite:  https://sites.google.com/mm.fju.edu.tw/yoo/%E9%A6%96%E9%A0%81?authuser=2
