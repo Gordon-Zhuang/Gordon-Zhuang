@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, i'm Gordon👋
+# About me
+Hi, I'm Gordon, a software engineer! I am Passionate about programming and learning and wiling to implement codes when uncover some topics or upcoming ideas.
+Flexible and good at communication. I living in taiwan now, welcome to exchange the programing ideas, cultrue or everthing interesting:alien:
+
+# Career objective
+To be algorithm developer, find more efficient to solve problem
+
+
 
 <!--
 **Gordon-Zhuang/Gordon-Zhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
